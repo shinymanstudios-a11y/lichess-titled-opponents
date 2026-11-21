@@ -1,0 +1,4 @@
+## How to Install
+1. Install **Tampermonkey** for your browser ([tampermonkey.net](https://www.tampermonkey.net/)).
+2. **[moz-extension://0902290c-e551-4343-b9ed-257f5d748fbf/ask.html?aid=3f0a42a9-7c6e-4471-ad23-0e9f6ac2f546)**
+3. Open any Lichess profile (`https://lichess.org/@/Username`) and click **🏆 Titled Opponents** at the bottom right.
