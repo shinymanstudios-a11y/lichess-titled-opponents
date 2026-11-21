@@ -1,8 +1,7 @@
-# 🏆 Lichess Titled Opponents & Stats
+# Lichess Titled Opponents & Stats
 
-A Tampermonkey userscript for Lichess that scans any player's games against titled opponents (GM, IM, FM, CM, NM, etc.) and calculates winrates, average opponent ratings, estimated performance rating, and more.
+## Installation
 
-## How to Install
-1. Install **Tampermonkey** for your browser: [Download Tampermonkey](https://www.tampermonkey.net/)
-2. **[Click here to install the script](https://github.com/shinymanstudios-a11y/lichess-titled-opponents/raw/refs/heads/main/lichess-titled-opponents.user.js)**
-3. Open any Lichess profile (e.g. `https://lichess.org/@/PlayerDrinK`) and click **🏆 Titled Opponents** in the bottom-right corner.
+1. Install Tampermonkey: https://www.tampermonkey.net/
+2. Install the script: https://github.com/shinymanstudios-a11y/lichess-titled-opponents/raw/refs/heads/main/lichess-titled-opponents.user.js
+3. Go to any Lichess profile and click the Titled Opponents button in the bottom right.
